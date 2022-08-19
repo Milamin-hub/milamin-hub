@@ -9,4 +9,4 @@
 ![HTML](https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=HTML5)
 ![Docker](https://img.shields.io/badge/docker-grey?style=for-the-badge&logo=docker)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milamin-hub&hide=contribs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milamin-hub&hide=contribs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

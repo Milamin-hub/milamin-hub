@@ -10,4 +10,3 @@
 ![HTML](https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=HTML5)
 ![Docker](https://img.shields.io/badge/docker-grey?style=for-the-badge&logo=docker)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milamin-hub&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
